@@ -29,3 +29,5 @@ to extract the review data.
 
 
 ## Summary 
+After analyzing all the data, it is possible to observe a small higher percentage of the 5 star 
+reviews for the Non-Vine program of 25% and 23% for Vine reviews, which do not have a relevant bias.
