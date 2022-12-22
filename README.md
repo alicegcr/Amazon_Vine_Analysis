@@ -15,13 +15,17 @@ to extract the review data.
 
 ![vine1](vine1.png).
 
+
 - How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
 
 ![vine2](vine2.png).
+![vine3](vine3.png).
+
 
 - What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
 
-![vine3](vine3.png).
+![vine4](vine4.png).
+![vine5](vine5.png).
 
 
 ## Summary 
